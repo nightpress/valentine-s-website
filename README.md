@@ -14,6 +14,15 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/valentine-interactive-app.git
+   cd valentine-interactive-app
+2. Install dependencies:
+   ```bash
+   npm install
+3. Run the development server:
+   ```bash
+   npm start
+The app will open in your default web browser, typically at http://localhost:3000.
+
 
 ## File Structure
 
